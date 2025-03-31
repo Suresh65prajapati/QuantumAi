@@ -1,1 +1,1 @@
-# QuantumAi
+# Quantum Model
